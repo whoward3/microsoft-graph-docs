@@ -122,7 +122,7 @@ Content-type: application/json
    "expirationDateTime":"2016-11-20T18:23:45.9356913Z",
    "clientState": "secretClientValue",
    "latestSupportedTlsVersion": "v1_2",
-   "notificationContentType": "application/jwt"
+   "notificationContentType": "application/json"
 }
 ```
 # [C#](#tab/csharp)
@@ -196,7 +196,7 @@ Content-length: 252
   "expirationDateTime": "2016-11-20T18:23:45.9356913Z",
   "creatorId": "8ee44408-0679-472c-bc2a-692812af3437",
   "latestSupportedTlsVersion": "v1_2",
-  "notificationContentType": "application/jwt"
+  "notificationContentType": "application/json"
 }
 ```
 

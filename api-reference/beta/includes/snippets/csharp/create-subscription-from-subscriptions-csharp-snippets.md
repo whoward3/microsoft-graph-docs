@@ -14,7 +14,7 @@ var subscription = new Subscription
 	ExpirationDateTime = DateTimeOffset.Parse("2016-11-20T18:23:45.9356913Z"),
 	ClientState = "secretClientValue",
 	LatestSupportedTlsVersion = "v1_2",
-	notificationContentType = "application/jwt" 
+	notificationContentType = "application/json" 
 };
 
 await graphClient.Subscriptions

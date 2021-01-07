@@ -60,19 +60,19 @@ See [Use the Microsoft Graph API to get change notifications](webhooks.md) for t
 
 ### Maximum length of subscription per resource type
 
-| Resource                                       | Maximum expiration time       | Notification Content-type supported |
-| :--------------------------------------------- | :---------------------------- | :---------------------------------- |
-| Security **alert**                             | 43200 minutes (under 30 days) | application/json                    |
-| Teams **callRecord**                           | 4230 minutes (under 3 days)   | application/json                    |
-| Teams **chatMessage**                          | 60 minutes (1 hour)           | application/json                    |
-| Group **conversation**                         | 4230 minutes (under 3 days)   | application/json                    |
-| OneDrive **driveItem**                         | 4230 minutes (under 3 days)   | application/json                    |
-| SharePoint **list**                            | 4230 minutes (under 3 days)   | application/json                    |
-| Outlook **message**, **event**, **contact**    | 4230 minutes (under 3 days)   | application/json                    |
-| **user**, **group**, other directory resources | 4230 minutes (under 3 days)   | application/json                    |
-| **presence**                                   | 60 minutes (1 hour)           | application/json                    |
-| Print **printTaskDefinition**                  | 4230 minutes (under 3 days)   | application/json                    |
-| **todoTask**                                   | 4230 minutes (under 3 days)   | application/json                    |
+| Resource                                       | Maximum expiration time       | Notification Content-types supported |
+| :--------------------------------------------- | :---------------------------- | :----------------------------------- |
+| Security **alert**                             | 43200 minutes (under 30 days) | application/json                     |
+| Teams **callRecord**                           | 4230 minutes (under 3 days)   | application/json                     |
+| Teams **chatMessage**                          | 60 minutes (1 hour)           | application/json                     |
+| Group **conversation**                         | 4230 minutes (under 3 days)   | application/json                     |
+| OneDrive **driveItem**                         | 4230 minutes (under 3 days)   | application/json                     |
+| SharePoint **list**                            | 4230 minutes (under 3 days)   | application/json                     |
+| Outlook **message**, **event**, **contact**    | 4230 minutes (under 3 days)   | application/json                     |
+| **user**, **group**, other directory resources | 4230 minutes (under 3 days)   | application/json                     |
+| **presence**                                   | 60 minutes (1 hour)           | application/json                     |
+| Print **printTaskDefinition**                  | 4230 minutes (under 3 days)   | application/json                     |
+| **todoTask**                                   | 4230 minutes (under 3 days)   | application/json                     |
 
 
 > **Note:** Existing applications and new applications should not exceed the supported value. In the future, any requests to create or renew a subscription beyond the maximum value will fail.
