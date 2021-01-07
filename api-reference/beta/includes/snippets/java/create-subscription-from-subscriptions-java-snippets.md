@@ -12,7 +12,7 @@ subscription.notificationUrl = "https://webhook.azurewebsites.net/api/send/myNot
 subscription.resource = "me/mailFolders('Inbox')/messages";
 subscription.expirationDateTime = CalendarSerializer.deserialize("2016-11-20T18:23:45.9356913Z");
 subscription.clientState = "secretClientValue";
-subscription.latestSupportedTlsVersion = "v1_2";
+subscription.latestSupportedTlsVersion = "v1_2"; 
 subscription.notificationContentType = "application/jwt";
 
 graphClient.subscriptions()

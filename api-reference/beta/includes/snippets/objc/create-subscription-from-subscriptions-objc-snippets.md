@@ -18,7 +18,7 @@ MSGraphSubscription *subscription = [[MSGraphSubscription alloc] init];
 [subscription setExpirationDateTime: "2016-11-20T18:23:45.9356913Z"];
 [subscription setClientState:@"secretClientValue"];
 [subscription setLatestSupportedTlsVersion:@"v1_2"];
-[subscription setNotificationContentType:"application/jwt"];
+[subscription setNotificationContentType:"application/jwt"]; 
 
 NSError *error;
 NSData *subscriptionData = [subscription getSerializedDataWithError:&error];

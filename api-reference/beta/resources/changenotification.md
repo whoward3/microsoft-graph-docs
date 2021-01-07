@@ -19,7 +19,7 @@ For details, see [Use the Microsoft Graph API to get change notifications](webho
 
 ## Methods
 
-None.
+None. 
 
 ## Properties
 
