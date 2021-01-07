@@ -3,6 +3,24 @@
     {
       "ChangeList": [
         {
+          "Id": "cf6320f4-27cc-4bf2-a5e4-99cee158435a",
+          "ApiChange": "Property",
+          "ChangedApiName": "notificationContentType",
+          "ChangeType": "Addition",
+          "Description": "Added the **notificationContentType** property to the [subscription](/graph/api/resources/subscription?view=graph-rest-beta) entity",
+          "Target": "subscription"
+        }
+      ],
+      "Id": "cf6320f4-27cc-4bf2-a5e4-99cee158435a",
+      "Cloud": "prd",
+      "Version": "beta",
+      "CreatedDateTime": "2021-01-01T00:00:00",
+      "WorkloadArea": "Change notifications",
+      "SubArea": ""
+    },
+    {
+      "ChangeList": [
+        {
           "Id": "4db99971-9137-4010-aa6b-7a53dbfb0c23",
           "ApiChange": "Resource",
           "ChangedApiName": "todoTask, change notifications",
