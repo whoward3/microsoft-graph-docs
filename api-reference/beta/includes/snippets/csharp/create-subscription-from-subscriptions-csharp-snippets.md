@@ -13,7 +13,8 @@ var subscription = new Subscription
 	Resource = "me/mailFolders('Inbox')/messages",
 	ExpirationDateTime = DateTimeOffset.Parse("2016-11-20T18:23:45.9356913Z"),
 	ClientState = "secretClientValue",
-	LatestSupportedTlsVersion = "v1_2"
+	LatestSupportedTlsVersion = "v1_2",
+	notificationContentType = "application/jwt"
 };
 
 await graphClient.Subscriptions

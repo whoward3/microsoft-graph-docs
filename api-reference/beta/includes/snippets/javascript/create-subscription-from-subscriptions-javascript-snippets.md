@@ -16,7 +16,8 @@ const subscription = {
    resource: "me/mailFolders('Inbox')/messages",
    expirationDateTime:"2016-11-20T18:23:45.9356913Z",
    clientState: "secretClientValue",
-   latestSupportedTlsVersion: "v1_2"
+   latestSupportedTlsVersion: "v1_2",
+	notificationContentType = "application/jwt"
 };
 
 let res = await client.api('/subscriptions')
