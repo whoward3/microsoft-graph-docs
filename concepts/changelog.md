@@ -17,7 +17,7 @@ For a summary of the value of these API changes, as well as recent tools, compon
 
 | **Change type** | **Version**   | **Description**                          |
 | :-------------- | :------------ | :--------------------------------------- |
-| Addition | beta | Added the **notificationContentType** property to the [subscription](/graph/api/resources/subscription?view=graph-rest-beta&preserve-view=true) entity. |
+| Addition | beta | Added the **notificationContentType** property to the [subscription](/graph/api/resources/subscription?view=graph-rest-beta&preserve-view=true) entity |
 
 ### Identity and access | Identity and sign-in
 
