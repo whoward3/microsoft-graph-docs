@@ -13,19 +13,18 @@ For a summary of the value of these API changes, as well as recent tools, compon
 
 ## January 2021
 
-<<<<<<< HEAD
 ### Change notifications
 
 | **Change type** | **Version**   | **Description**                          |
 | :-------------- | :------------ | :--------------------------------------- |
 | Addition | beta | Added the **notificationContentType** property to the [subscription](/graph/api/resources/subscription?view=graph-rest-beta&preserve-view=true) entity |
-=======
+
 ### Groups
 
 | **Change type** | **Version**   | **Description**                          |
 | :-------------- | :------------ | :--------------------------------------- |
 | Addition        | beta | Added the **membershipRuleProcessingStatus** property to dynamic groups.|
->>>>>>> 577eb3d675e24807ddc6e66c80fa61094286db65
+
 
 ### Identity and access | Identity and sign-in
 
