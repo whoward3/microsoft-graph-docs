@@ -25,7 +25,6 @@ For a summary of the value of these API changes, as well as recent tools, compon
 | :-------------- | :------------ | :--------------------------------------- |
 | Addition        | beta | Added the **membershipRuleProcessingStatus** property to dynamic groups.|
 
-
 ### Identity and access | Identity and sign-in
 
 | **Change type** | **Version**   | **Description**                          |
