@@ -48,7 +48,7 @@ The following table shows the properties that are required when you update the [
 
 |Property|Type|Description|
 |:---|:---|:---|
-|isEnabled|Boolean|Indicates whether the admin consent policy is enabled or disabled.<br><br>This property manages the policy, while the **EnableAdminConsentRequests** property of the **Consent Policy Settings** object of the [directory settings](../resources/directorysetting.md) resource determines if users are shown the prompt to request access. The **EnableAdminConsentRequests** property must be set to `true`. See [sample request and response](../api/directorysetting-get.md) of the Consent Policy Settings object.|
+|isEnabled|Boolean|Indicates whether the admin consent policy is enabled or disabled.|
 |notifyReviewers|Boolean|Indicates whether reminder emails to reviewers is enabled or disabled. |
 |remindersEnabled|Boolean|Indicates whether reminder emails to reviewers is enabled or disabled. |
 |requestDurationInDays|Int32|Specifies the duration of the request. |
