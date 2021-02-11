@@ -28,10 +28,10 @@ Make sure you have the corresponding permissions to call the following APIs.
 
 |Resource type |Method |
 |---------|---------|
-|[applicationTemplate](/graph/api/resources/applicationtemplate?view=graph-rest-beta)|[List applicationTemplate](/graph/api/applicationtemplate-list?tabs=http&view=graph-rest-beta) <br>[Instantiate applicationTemplate](/graph/api/applicationtemplate-instantiate?tabs=http&view=graph-rest-beta)|
-|[servicePrincipals](/graph/api/resources/serviceprincipal?view=graph-rest-1.0)|[Update servicePrincipal](/graph/api/serviceprincipal-update?tabs=http&view=graph-rest-1.0) <br> [Create appRoleAssignments](/graph/api/serviceprincipal-post-approleassignments?tabs=http&view=graph-rest-1.0) <br> [Assign claimsMappingPolicies](/graph/api/serviceprincipal-post-claimsmappingpolicies?tabs=http&view=graph-rest-beta)|
+|[applicationTemplate](/graph/api/resources/applicationtemplate?view=graph-rest-1.0)|[List applicationTemplate](/graph/api/applicationtemplate-list?tabs=http&view=graph-rest-1.0) <br>[Instantiate applicationTemplate](/graph/api/applicationtemplate-instantiate?tabs=http&view=graph-rest-1.0)|
+|[servicePrincipals](/graph/api/resources/serviceprincipal?view=graph-rest-1.0)|[Update servicePrincipal](/graph/api/serviceprincipal-update?tabs=http&view=graph-rest-1.0) <br> [Create appRoleAssignments](/graph/api/serviceprincipal-post-approleassignments?tabs=http&view=graph-rest-1.0) <br> [Assign claimsMappingPolicies](/graph/api/serviceprincipal-post-claimsmappingpolicies?tabs=http&view=graph-rest-1.0)|
 |[applications](/graph/api/resources/application?view=graph-rest-1.0)|[Update application](/graph/api/application-update?tabs=http&view=graph-rest-1.0)|
-|[claimsMappingPolicy](/graph/api/resources/claimsmappingpolicy?view=graph-rest-beta)| [Create claimsMappingPolicy](/graph/api/claimsmappingpolicy-post-claimsmappingpolicies?tabs=http&view=graph-rest-beta)
+|[claimsMappingPolicy](/graph/api/resources/claimsmappingpolicy?view=graph-rest-1.0)| [Create claimsMappingPolicy](/graph/api/claimsmappingpolicy-post-claimsmappingpolicies?tabs=http&view=graph-rest-1.0)
 
 >[!NOTE]
 >The response objects shown in this article might be shortened for readability. All the properties will be returned from an actual call.
@@ -46,7 +46,7 @@ Make sure you have the corresponding permissions to call the following APIs.
 
 ### Retrieve the gallery application template identifier
 
-Applications in the Azure AD application gallery each have an [application template](/graph/api/applicationtemplate-list?tabs=http&view=graph-rest-beta) that describes the metadata for that application. Using this template, you can create an instance of the application and service principal in your tenant for management.
+Applications in the Azure AD application gallery each have an [application template](/graph/api/applicationtemplate-list?tabs=http&view=graph-rest-1.0) that describes the metadata for that application. Using this template, you can create an instance of the application and service principal in your tenant for management.
 
 #### Request
 
@@ -58,7 +58,7 @@ Applications in the Azure AD application gallery each have an [application templ
 }-->
 
 ```msgraph-interactive
-GET https://graph.microsoft.com/beta/applicationTemplates
+GET https://graph.microsoft.com/v1.0/applicationTemplates
 ```
 # [C#](#tab/csharp)
 [!INCLUDE [sample-code](../includes/snippets/csharp/get-applicationtemplates-csharp-snippets.md)]
@@ -114,7 +114,7 @@ Content-type: application/json
 
 ### Create the gallery application
 
-Using the template ID that you retrieved for your application in the last step, [create an instance](/graph/api/applicationtemplate-instantiate?tabs=http&view=graph-rest-beta) of the application and service principal in your tenant.
+Using the template ID that you retrieved for your application in the last step, [create an instance](/graph/api/applicationtemplate-instantiate?tabs=http&view=graph-rest-1.0) of the application and service principal in your tenant.
 
 > [!NOTE] 
 > You can use applicationTemplate API to instantiate [Non-Gallery apps](/azure/active-directory/manage-apps/view-applications-portal). Use applicationTemplateId `8adf8e6e-67b2-4cf2-a259-e3dc5476c621`.
@@ -133,7 +133,7 @@ Using the template ID that you retrieved for your application in the last step, 
 }-->
 
 ```msgraph-interactive
-POST https://graph.microsoft.com/beta/applicationTemplates/8b1025e4-1dd2-430b-a150-2ef79cd700f5/instantiate
+POST https://graph.microsoft.com/v1.0/applicationTemplates/8b1025e4-1dd2-430b-a150-2ef79cd700f5/instantiate
 Content-type: application/json
 
 {
@@ -526,7 +526,7 @@ HTTP/1.1 204
 
 ## Step 4: Configure signing certificate
 
-Using the [applicationTemplate](/graph/api/resources/applicationtemplate?view=graph-rest-beta) API doesn't create a signing certificate by default. Create your custom signing cert and assign it to the application. 
+Using the [applicationTemplate](/graph/api/resources/applicationtemplate?view=graph-rest-1.0) API doesn't create a signing certificate by default. Create your custom signing cert and assign it to the application. 
 
 ### Create a custom signing certificate
 
