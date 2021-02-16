@@ -49,6 +49,6 @@ Search content from Microsoft search experiences by customizing your search resu
 
 - Follow a step by step guide on how to use the Microsoft Graph indexing API to create a connection to the Microsoft Search service and index custom items: [Microsoft Graph Search Connector Sample](https://github.com/microsoftgraph/msgraph-search-connector-sample)
 
-- Learn how to build your own Microsoft Graph Connectors
-
-    > [!VIDEO https://www.youtube.com/watch?v=S6s-bvvtDZk]
+- Watch a video to learn [how to build your own Microsoft Graph Connectors](https://www.youtube.com/watch?v=S6s-bvvtDZk)
+<!--- > [!VIDEO https://www.youtube.com/watch?v=S6s-bvvtDZk] --->
+    
