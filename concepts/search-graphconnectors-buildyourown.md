@@ -12,14 +12,15 @@ description: "Build your first custom Graph connector"
 ## Step 1: Get an access token
 
 ### Register an Azure Active Directory app
-Go to Azure Active Directory and register an app to allow Microsoft Search to access data for indexing. 
+Go to Azure Active Directory and register an app to allow Microsoft Search to access data for indexing.
 
 To learn more, refer to the Microsoft Graph documentation on how to [register an app](https://docs.microsoft.com/en-us/graph/auth-register-app-v2).
 
-Before moving to the next step, go to API permissions, add the permission named "ExternalItem.ReadWrite.All", and grant Admin Consent.
+Add the permission named "ExternalItem.ReadWrite.All" on API permissions, and grant Admin Consent.
+Take note of the app name, application (client) ID, and tenant ID.
 
 ### Get an access token for the app
-After completing the app registration and taking note of the app name, application (client) ID, and tenant ID, you need to generate a new client secret. The client secret will only be displayed once. Remember to save the client's secret securely. Use the client ID and client secret while configuring a new connection in Microsoft Search.
+ Generate a new client secret. The client secret will only be displayed once. Remember to save the client's secret securely. Use the client ID and client secret while configuring a new connection in Microsoft Search.
 
 ## Step 2: Build your connector
 
