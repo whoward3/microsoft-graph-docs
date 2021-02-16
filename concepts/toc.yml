@@ -329,7 +329,20 @@ items:
           - name: Overview
             href: search-concept-overview.md
           - name: Microsoft Graph connectors
-            href: a-format-test.md            
+            href: a-format-test.md 
+            items:
+              - name: Graph connectors overview
+                href: search-graphconnectors-overview.md
+              - name: Explore Graph connector APIs on Postman
+                href: search-graphconnectors-postman.md.md
+              - name: Explore code samples
+                href: a-format-test.md
+              - name: Build your first custom Graph connector 
+                href: search-graphconnectors-buildyourown.md
+              - name: Custom Graph connector best practices
+                href: a-format-test.md
+              - name: Graph connector API reference
+                href: a-format-test.md                       
           - name: Query
             items:
               - name: Search messages
