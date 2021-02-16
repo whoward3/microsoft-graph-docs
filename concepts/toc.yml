@@ -328,6 +328,8 @@ items:
         items:
           - name: Overview
             href: search-concept-overview.md
+          - name: Microsoft Graph connectors
+            href: a-format-test.md            
           - name: Query
             items:
               - name: Search messages
