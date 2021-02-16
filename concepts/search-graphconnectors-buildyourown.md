@@ -24,8 +24,7 @@ After completing the app registration and taking note of the app name, applicati
 ## Step 2: Build your connector
 
 ### Create a connection
-Go to https://graph.microsoft.com/beta/external/connections, use the access token you got in the previous step, and make a request.
-Select an app ID unique within the tenant
+Go to [Link needs confirmation](https://graph.microsoft.com/beta/external/connections), use the access token you got in the previous step, and make a request. Select a unique app ID within the tenant.
 
 ### Register the connection schema
 You can set the search schema attributes to control the search functionality of each source property. Search schema attributes include options to Query, Search, Retrieve, and Refine.
