@@ -43,6 +43,7 @@ To learn more, visit the following link: [Manage items](https://docs.microsoft.c
 Search content from Microsoft search experiences by customizing your search results, adding a vertical, and defining the results layout.
 
 [Manage verticals and result types](https://docs.microsoft.com/en-us/microsoftsearch/customize-search-page)
+
 [Manage search result layouts](https://docs.microsoft.com/en-us/microsoftsearch/customize-results-layout)
 
 ## More resources
@@ -51,4 +52,3 @@ Search content from Microsoft search experiences by customizing your search resu
 
 - Watch a video to learn [how to build your own Microsoft Graph Connectors](https://www.youtube.com/watch?v=S6s-bvvtDZk)
 <!--- > [!VIDEO https://www.youtube.com/watch?v=S6s-bvvtDZk] --->
-    
