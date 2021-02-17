@@ -1,0 +1,61 @@
+### Devices and apps
+
+| **Change type** | **Version** | **Description** |
+|:---|:---|:---|
+|Addition|beta|Added the [deviceManagementConfigurationPolicy](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationPolicy?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationSettingDefinition](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationSettingDefinition?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationPolicyAssignment](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationPolicyAssignment?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationCategory](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationCategory?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationSetting](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationSetting?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationSettingInstance](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationSettingInstance?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationChoiceSettingInstance](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationChoiceSettingInstance?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationSettingValue](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationSettingValue?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationGroupSettingValue](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationGroupSettingValue?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationChoiceSettingCollectionInstance](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationChoiceSettingCollectionInstance?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationSimpleSettingValue](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationSimpleSettingValue?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationStringSettingValue](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationStringSettingValue?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationIntegerSettingValue](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationIntegerSettingValue?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationGroupSettingCollectionInstance](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationGroupSettingCollectionInstance?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationSettingGroupCollectionInstance](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationSettingGroupCollectionInstance?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationSettingGroupInstance](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationSettingGroupInstance?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationSimpleSettingCollectionInstance](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationSimpleSettingCollectionInstance?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationSimpleSettingInstance](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationSimpleSettingInstance?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationChoiceSettingValue](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationChoiceSettingValue?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationGroupSettingInstance](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationGroupSettingInstance?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationSettingApplicability](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationSettingApplicability?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationWindowsSettingApplicability](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationWindowsSettingApplicability?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationSettingOccurrence](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationSettingOccurrence?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationChoiceSettingDefinition](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationChoiceSettingDefinition?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationOptionDefinition](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationOptionDefinition?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationDependentOn](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationDependentOn?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationSettingDependedOnBy](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationSettingDependedOnBy?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationChoiceSettingCollectionDefinition](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationChoiceSettingCollectionDefinition?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationSettingGroupDefinition](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationSettingGroupDefinition?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationSettingGroupCollectionDefinition](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationSettingGroupCollectionDefinition?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationSimpleSettingDefinition](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationSimpleSettingDefinition?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationSettingValueDefinition](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationSettingValueDefinition?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationStringSettingValueDefinition](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationStringSettingValueDefinition?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationIntegerSettingValueDefinition](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationIntegerSettingValueDefinition?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceManagementConfigurationSimpleSettingCollectionDefinition](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationSimpleSettingCollectionDefinition?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [deviceAndAppManagementAssignmentTarget](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceAndAppManagementAssignmentTarget?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [configurationManagerCollectionAssignmentTarget](https://docs.microsoft.com/en-us/graph/api/resources/intune-configurationManagerCollectionAssignmentTarget?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [allDevicesAssignmentTarget](https://docs.microsoft.com/en-us/graph/api/resources/intune-allDevicesAssignmentTarget?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [groupAssignmentTarget](https://docs.microsoft.com/en-us/graph/api/resources/intune-groupAssignmentTarget?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [exclusionGroupAssignmentTarget](https://docs.microsoft.com/en-us/graph/api/resources/intune-exclusionGroupAssignmentTarget?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [allLicensedUsersAssignmentTarget](https://docs.microsoft.com/en-us/graph/api/resources/intune-allLicensedUsersAssignmentTarget?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the **deviceManagementConfigurationPlatforms** enumeration type.|
+|Addition|beta|Added the **deviceManagementConfigurationTechnologies** enumeration type.|
+|Addition|beta|Added the **deviceManagementConfigurationDeviceMode** enumeration type.|
+|Addition|beta|Added the **deviceManagementConfigurationWindowsSkus** enumeration type.|
+|Addition|beta|Added the **deviceManagementConfigurationAzureAdTrustType** enumeration type.|
+|Addition|beta|Added the **deviceManagementConfigurationSettingAccessTypes** enumeration type.|
+|Addition|beta|Added the **deviceManagementConfigurationSettingUsage** enumeration type.|
+|Addition|beta|Added the **deviceManagementConfigurationControlType** enumeration type.|
+|Addition|beta|Added the **deviceManagementConfigurationStringFormat** enumeration type.|
+|Addition|beta|Added the **deviceAndAppManagementAssignmentFilterType** enumeration type.|
+|Addition|beta|Added the [assign](https://docs.microsoft.com/en-us/graph/api/intune-deviceManagementConfigurationPolicy-assign?view=graph-rest-beta) method to the [deviceManagementConfigurationPolicy](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementConfigurationPolicy?view=graph-rest-beta) resource.|
+|Addition|beta|Added the [getConfigurationSettingsReport](https://docs.microsoft.com/en-us/graph/api/intune-deviceManagementReports-getConfigurationSettingsReport?view=graph-rest-beta) method to the [deviceManagementReports](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementReports?view=graph-rest-beta) resource.|
+|Addition|beta|Added the [getConfigurationSettingDetailsReport](https://docs.microsoft.com/en-us/graph/api/intune-deviceManagementReports-getConfigurationSettingDetailsReport?view=graph-rest-beta) method to the [deviceManagementReports](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementReports?view=graph-rest-beta) resource.|
+|Addition|beta|Added the [getConfigurationPolicyDeviceSummaryReport](https://docs.microsoft.com/en-us/graph/api/intune-deviceManagementReports-getConfigurationPolicyDeviceSummaryReport?view=graph-rest-beta) method to the [deviceManagementReports](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementReports?view=graph-rest-beta) resource.|
+|Addition|beta|Added the [getConfigurationPolicyDevicesReport](https://docs.microsoft.com/en-us/graph/api/intune-deviceManagementReports-getConfigurationPolicyDevicesReport?view=graph-rest-beta) method to the [deviceManagementReports](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementReports?view=graph-rest-beta) resource.|
+|Addition|beta|Added the [getConfigurationPoliciesReportForDevice](https://docs.microsoft.com/en-us/graph/api/intune-deviceManagementReports-getConfigurationPoliciesReportForDevice?view=graph-rest-beta) method to the [deviceManagementReports](https://docs.microsoft.com/en-us/graph/api/resources/intune-deviceManagementReports?view=graph-rest-beta) resource.|

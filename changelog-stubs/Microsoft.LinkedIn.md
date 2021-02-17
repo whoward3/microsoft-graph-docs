@@ -1,0 +1,175 @@
+### LinkedIn
+
+| **Change type** | **Version** | **Description** |
+|:---|:---|:---|
+|Addition|beta|Added the [Date](https://docs.microsoft.com/en-us/graph/api/resources/Date?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [Locale](https://docs.microsoft.com/en-us/graph/api/resources/Locale?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [MultiLocaleString](https://docs.microsoft.com/en-us/graph/api/resources/MultiLocaleString?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIFieldOfStudy](https://docs.microsoft.com/en-us/graph/api/resources/LIFieldOfStudy?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIFieldOfStudyArray](https://docs.microsoft.com/en-us/graph/api/resources/LIFieldOfStudyArray?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LILocation](https://docs.microsoft.com/en-us/graph/api/resources/LILocation?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LILocationArray](https://docs.microsoft.com/en-us/graph/api/resources/LILocationArray?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIMutualConnections](https://docs.microsoft.com/en-us/graph/api/resources/LIMutualConnections?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LISharedEducationDetails](https://docs.microsoft.com/en-us/graph/api/resources/LISharedEducationDetails?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LISharedEducations](https://docs.microsoft.com/en-us/graph/api/resources/LISharedEducations?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LISharedExperienceDetails](https://docs.microsoft.com/en-us/graph/api/resources/LISharedExperienceDetails?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LISharedExperiences](https://docs.microsoft.com/en-us/graph/api/resources/LISharedExperiences?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIInviteDetails](https://docs.microsoft.com/en-us/graph/api/resources/LIInviteDetails?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [SkillEndorsement](https://docs.microsoft.com/en-us/graph/api/resources/SkillEndorsement?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [UserGeneratedContent](https://docs.microsoft.com/en-us/graph/api/resources/UserGeneratedContent?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [NewsMention](https://docs.microsoft.com/en-us/graph/api/resources/NewsMention?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIInvite](https://docs.microsoft.com/en-us/graph/api/resources/LIInvite?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [RTAttribute](https://docs.microsoft.com/en-us/graph/api/resources/RTAttribute?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [RTData](https://docs.microsoft.com/en-us/graph/api/resources/RTData?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [RichText](https://docs.microsoft.com/en-us/graph/api/resources/RichText?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [MultiLocaleRichText](https://docs.microsoft.com/en-us/graph/api/resources/MultiLocaleRichText?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [DateRange](https://docs.microsoft.com/en-us/graph/api/resources/DateRange?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [MultiLocaleUrl](https://docs.microsoft.com/en-us/graph/api/resources/MultiLocaleUrl?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [Address](https://docs.microsoft.com/en-us/graph/api/resources/Address?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIOrganizationLocationInfo](https://docs.microsoft.com/en-us/graph/api/resources/LIOrganizationLocationInfo?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIIndustry](https://docs.microsoft.com/en-us/graph/api/resources/LIIndustry?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIOrganization](https://docs.microsoft.com/en-us/graph/api/resources/LIOrganization?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIMemberPosition](https://docs.microsoft.com/en-us/graph/api/resources/LIMemberPosition?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIMemberFieldOfStudy](https://docs.microsoft.com/en-us/graph/api/resources/LIMemberFieldOfStudy?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIMemberEducation](https://docs.microsoft.com/en-us/graph/api/resources/LIMemberEducation?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIMemberCertification](https://docs.microsoft.com/en-us/graph/api/resources/LIMemberCertification?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIMemberHonor](https://docs.microsoft.com/en-us/graph/api/resources/LIMemberHonor?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIMemberLanguage](https://docs.microsoft.com/en-us/graph/api/resources/LIMemberLanguage?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIMemberOrganization](https://docs.microsoft.com/en-us/graph/api/resources/LIMemberOrganization?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIMemberPatent](https://docs.microsoft.com/en-us/graph/api/resources/LIMemberPatent?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIMemberProject](https://docs.microsoft.com/en-us/graph/api/resources/LIMemberProject?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIMemberPublication](https://docs.microsoft.com/en-us/graph/api/resources/LIMemberPublication?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LISkill](https://docs.microsoft.com/en-us/graph/api/resources/LISkill?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIMemberConnectionInfo](https://docs.microsoft.com/en-us/graph/api/resources/LIMemberConnectionInfo?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIMemberDetails](https://docs.microsoft.com/en-us/graph/api/resources/LIMemberDetails?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIMember](https://docs.microsoft.com/en-us/graph/api/resources/LIMember?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIMemberArray](https://docs.microsoft.com/en-us/graph/api/resources/LIMemberArray?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [Metadata](https://docs.microsoft.com/en-us/graph/api/resources/Metadata?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIQueryTermMatchInfo](https://docs.microsoft.com/en-us/graph/api/resources/LIQueryTermMatchInfo?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [SearchMatch](https://docs.microsoft.com/en-us/graph/api/resources/SearchMatch?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIOrganizationArray](https://docs.microsoft.com/en-us/graph/api/resources/LIOrganizationArray?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LISkillArray](https://docs.microsoft.com/en-us/graph/api/resources/LISkillArray?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LITitle](https://docs.microsoft.com/en-us/graph/api/resources/LITitle?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LITitleArray](https://docs.microsoft.com/en-us/graph/api/resources/LITitleArray?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIAggregationBucket](https://docs.microsoft.com/en-us/graph/api/resources/LIAggregationBucket?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LIAggregations](https://docs.microsoft.com/en-us/graph/api/resources/LIAggregations?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [Position](https://docs.microsoft.com/en-us/graph/api/resources/Position?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [WorkAnniversary](https://docs.microsoft.com/en-us/graph/api/resources/WorkAnniversary?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [SharedConnection](https://docs.microsoft.com/en-us/graph/api/resources/SharedConnection?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [SharedConnections](https://docs.microsoft.com/en-us/graph/api/resources/SharedConnections?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [Education](https://docs.microsoft.com/en-us/graph/api/resources/Education?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [Duration](https://docs.microsoft.com/en-us/graph/api/resources/Duration?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [OverlapInfo](https://docs.microsoft.com/en-us/graph/api/resources/OverlapInfo?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [SharedEducation](https://docs.microsoft.com/en-us/graph/api/resources/SharedEducation?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [DecoratedProfileSearchQuery](https://docs.microsoft.com/en-us/graph/api/resources/DecoratedProfileSearchQuery?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [SharedEducations](https://docs.microsoft.com/en-us/graph/api/resources/SharedEducations?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [PhoneNumber](https://docs.microsoft.com/en-us/graph/api/resources/PhoneNumber?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [IM](https://docs.microsoft.com/en-us/graph/api/resources/IM?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [liWebsite](https://docs.microsoft.com/en-us/graph/api/resources/liWebsite?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [Connection](https://docs.microsoft.com/en-us/graph/api/resources/Connection?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [liInvitation](https://docs.microsoft.com/en-us/graph/api/resources/liInvitation?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [SimpleProfileHighlight](https://docs.microsoft.com/en-us/graph/api/resources/SimpleProfileHighlight?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [Birthday](https://docs.microsoft.com/en-us/graph/api/resources/Birthday?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [MeetNewHire](https://docs.microsoft.com/en-us/graph/api/resources/MeetNewHire?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [PositionChange](https://docs.microsoft.com/en-us/graph/api/resources/PositionChange?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [SharedExperience](https://docs.microsoft.com/en-us/graph/api/resources/SharedExperience?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [SharedExperiences](https://docs.microsoft.com/en-us/graph/api/resources/SharedExperiences?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [DecoratedProfile](https://docs.microsoft.com/en-us/graph/api/resources/DecoratedProfile?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [DecoratedProfileSearchResult](https://docs.microsoft.com/en-us/graph/api/resources/DecoratedProfileSearchResult?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [Result](https://docs.microsoft.com/en-us/graph/api/resources/Result?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [StringMapElement](https://docs.microsoft.com/en-us/graph/api/resources/StringMapElement?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [RichTextMapElement](https://docs.microsoft.com/en-us/graph/api/resources/RichTextMapElement?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [UrlMapElement](https://docs.microsoft.com/en-us/graph/api/resources/UrlMapElement?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [ResultEntities](https://docs.microsoft.com/en-us/graph/api/resources/ResultEntities?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmptyRecord](https://docs.microsoft.com/en-us/graph/api/resources/EmptyRecord?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [SalesNavigatorPersonInfo](https://docs.microsoft.com/en-us/graph/api/resources/SalesNavigatorPersonInfo?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [SalesNavigatorTeamlinkInfo](https://docs.microsoft.com/en-us/graph/api/resources/SalesNavigatorTeamlinkInfo?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [SalesNavigatorInsight](https://docs.microsoft.com/en-us/graph/api/resources/SalesNavigatorInsight?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LinkedInOrganization](https://docs.microsoft.com/en-us/graph/api/resources/LinkedInOrganization?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [SalesNavigatorInfo](https://docs.microsoft.com/en-us/graph/api/resources/SalesNavigatorInfo?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [InvitationMessage](https://docs.microsoft.com/en-us/graph/api/resources/InvitationMessage?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [InvitationV2](https://docs.microsoft.com/en-us/graph/api/resources/InvitationV2?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [InviteActionStatus](https://docs.microsoft.com/en-us/graph/api/resources/InviteActionStatus?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [InviteActionResults](https://docs.microsoft.com/en-us/graph/api/resources/InviteActionResults?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [InviteActionData](https://docs.microsoft.com/en-us/graph/api/resources/InviteActionData?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [FlagContentRequest](https://docs.microsoft.com/en-us/graph/api/resources/FlagContentRequest?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [userFlaggingResource](https://docs.microsoft.com/en-us/graph/api/resources/userFlaggingResource?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [DecoratedProfileConnection](https://docs.microsoft.com/en-us/graph/api/resources/DecoratedProfileConnection?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [linkedIn](https://docs.microsoft.com/en-us/graph/api/resources/linkedIn?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [salesNavigatorSaveLeadResource](https://docs.microsoft.com/en-us/graph/api/resources/salesNavigatorSaveLeadResource?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [OverlapInfoDetail](https://docs.microsoft.com/en-us/graph/api/resources/OverlapInfoDetail?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [DecoratedProfileProfileHighlights](https://docs.microsoft.com/en-us/graph/api/resources/DecoratedProfileProfileHighlights?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [InvitationV2Message](https://docs.microsoft.com/en-us/graph/api/resources/InvitationV2Message?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [Error](https://docs.microsoft.com/en-us/graph/api/resources/Error?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [ErrorMapElement](https://docs.microsoft.com/en-us/graph/api/resources/ErrorMapElement?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [DecoratedProfileMapElement](https://docs.microsoft.com/en-us/graph/api/resources/DecoratedProfileMapElement?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [DecoratedProfileBatchGetResult](https://docs.microsoft.com/en-us/graph/api/resources/DecoratedProfileBatchGetResult?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeeAdvisorPreference](https://docs.microsoft.com/en-us/graph/api/resources/EmployeeAdvisorPreference?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeePreferenceDetail](https://docs.microsoft.com/en-us/graph/api/resources/EmployeePreferenceDetail?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeeUserPreferences](https://docs.microsoft.com/en-us/graph/api/resources/EmployeeUserPreferences?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeeAdvisorProfile](https://docs.microsoft.com/en-us/graph/api/resources/EmployeeAdvisorProfile?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeeSoftSkill](https://docs.microsoft.com/en-us/graph/api/resources/EmployeeSoftSkill?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EntityDetails](https://docs.microsoft.com/en-us/graph/api/resources/EntityDetails?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeeInterest](https://docs.microsoft.com/en-us/graph/api/resources/EmployeeInterest?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeeSkill](https://docs.microsoft.com/en-us/graph/api/resources/EmployeeSkill?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeeProjectDetail](https://docs.microsoft.com/en-us/graph/api/resources/EmployeeProjectDetail?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeeProject](https://docs.microsoft.com/en-us/graph/api/resources/EmployeeProject?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [MicrosoftAddress](https://docs.microsoft.com/en-us/graph/api/resources/MicrosoftAddress?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [MicrosoftCompany](https://docs.microsoft.com/en-us/graph/api/resources/MicrosoftCompany?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeePositionDetail](https://docs.microsoft.com/en-us/graph/api/resources/EmployeePositionDetail?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeePosition](https://docs.microsoft.com/en-us/graph/api/resources/EmployeePosition?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [MicrosoftProgram](https://docs.microsoft.com/en-us/graph/api/resources/MicrosoftProgram?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [MicrosoftInstitution](https://docs.microsoft.com/en-us/graph/api/resources/MicrosoftInstitution?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeeEducationActivity](https://docs.microsoft.com/en-us/graph/api/resources/EmployeeEducationActivity?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeeLanguage](https://docs.microsoft.com/en-us/graph/api/resources/EmployeeLanguage?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeeCertification](https://docs.microsoft.com/en-us/graph/api/resources/EmployeeCertification?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeeAward](https://docs.microsoft.com/en-us/graph/api/resources/EmployeeAward?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeePatent](https://docs.microsoft.com/en-us/graph/api/resources/EmployeePatent?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeePublication](https://docs.microsoft.com/en-us/graph/api/resources/EmployeePublication?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeeProfile](https://docs.microsoft.com/en-us/graph/api/resources/EmployeeProfile?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [Employee](https://docs.microsoft.com/en-us/graph/api/resources/Employee?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeeResponseData](https://docs.microsoft.com/en-us/graph/api/resources/EmployeeResponseData?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [QueryLocation](https://docs.microsoft.com/en-us/graph/api/resources/QueryLocation?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [ErrorDetail](https://docs.microsoft.com/en-us/graph/api/resources/ErrorDetail?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [ResponseErrorExtension](https://docs.microsoft.com/en-us/graph/api/resources/ResponseErrorExtension?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [ResponseError](https://docs.microsoft.com/en-us/graph/api/resources/ResponseError?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [WhoPlusSearchMatchTerm](https://docs.microsoft.com/en-us/graph/api/resources/WhoPlusSearchMatchTerm?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [WhoPlusSearchMatch](https://docs.microsoft.com/en-us/graph/api/resources/WhoPlusSearchMatch?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [WhoPlusFacetBucket](https://docs.microsoft.com/en-us/graph/api/resources/WhoPlusFacetBucket?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [WhoPlusFacet](https://docs.microsoft.com/en-us/graph/api/resources/WhoPlusFacet?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [WhoPlusSearchMetadata](https://docs.microsoft.com/en-us/graph/api/resources/WhoPlusSearchMetadata?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [PaginationMetadata](https://docs.microsoft.com/en-us/graph/api/resources/PaginationMetadata?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [ResponseExtensionContext](https://docs.microsoft.com/en-us/graph/api/resources/ResponseExtensionContext?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [WhoPlusResponseExtensionsContext](https://docs.microsoft.com/en-us/graph/api/resources/WhoPlusResponseExtensionsContext?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [ResponseExtensions](https://docs.microsoft.com/en-us/graph/api/resources/ResponseExtensions?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [LegacyMockEmployeeGraphQLResponse](https://docs.microsoft.com/en-us/graph/api/resources/LegacyMockEmployeeGraphQLResponse?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [ExecutionEmployeeGraphQLResponse](https://docs.microsoft.com/en-us/graph/api/resources/ExecutionEmployeeGraphQLResponse?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [MockEmployeeGraphQLResponse](https://docs.microsoft.com/en-us/graph/api/resources/MockEmployeeGraphQLResponse?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [EmployeeGraphQLResponse](https://docs.microsoft.com/en-us/graph/api/resources/EmployeeGraphQLResponse?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the [Any](https://docs.microsoft.com/en-us/graph/api/resources/Any?view=graph-rest-beta) resource type.|
+|Addition|beta|Added the **LIMemberLanguageProficiency** enumeration type.|
+|Addition|beta|Added the **GeographicAreaType** enumeration type.|
+|Addition|beta|Added the **LILocationType** enumeration type.|
+|Addition|beta|Added the **OverlapType** enumeration type.|
+|Addition|beta|Added the **PhoneNumberType** enumeration type.|
+|Addition|beta|Added the **WebsiteCategory** enumeration type.|
+|Addition|beta|Added the **ConnectionDegree** enumeration type.|
+|Addition|beta|Added the **ShareMediaCategory** enumeration type.|
+|Addition|beta|Added the **SimpleProfileHighlightType** enumeration type.|
+|Addition|beta|Added the **PositionChangeType** enumeration type.|
+|Addition|beta|Added the **SalesNavigatorInsightType** enumeration type.|
+|Addition|beta|Added the **IdSource** enumeration type.|
+|Addition|beta|Added the **InviteeActionType** enumeration type.|
+|Addition|beta|Added the **UserReportedFlagReason** enumeration type.|
+|Addition|beta|Added the [inviteeClosingInvitation](https://docs.microsoft.com/en-us/graph/api/InvitationV2-inviteeClosingInvitation?view=graph-rest-beta) method to the [InvitationV2](https://docs.microsoft.com/en-us/graph/api/resources/InvitationV2?view=graph-rest-beta) resource.|
+|Addition|beta|Added the [flagContent](https://docs.microsoft.com/en-us/graph/api/userFlaggingResource-flagContent?view=graph-rest-beta) method to the [userFlaggingResource](https://docs.microsoft.com/en-us/graph/api/resources/userFlaggingResource?view=graph-rest-beta) resource.|
+|Addition|beta|Added the [saveVieweeAsLead](https://docs.microsoft.com/en-us/graph/api/salesNavigatorSaveLeadResource-saveVieweeAsLead?view=graph-rest-beta) method to the [salesNavigatorSaveLeadResource](https://docs.microsoft.com/en-us/graph/api/resources/salesNavigatorSaveLeadResource?view=graph-rest-beta) resource.|
+|Addition|beta|Added the [unsaveVieweeAsLead](https://docs.microsoft.com/en-us/graph/api/salesNavigatorSaveLeadResource-unsaveVieweeAsLead?view=graph-rest-beta) method to the [salesNavigatorSaveLeadResource](https://docs.microsoft.com/en-us/graph/api/resources/salesNavigatorSaveLeadResource?view=graph-rest-beta) resource.|
+|Addition|beta|Added the [discovery](https://docs.microsoft.com/en-us/graph/api/EmployeeGraphQLResponse-discovery?view=graph-rest-beta) method to the [EmployeeGraphQLResponse](https://docs.microsoft.com/en-us/graph/api/resources/EmployeeGraphQLResponse?view=graph-rest-beta) resource.|
+|Addition|beta|Added the [whoplus](https://docs.microsoft.com/en-us/graph/api/EmployeeGraphQLResponse-whoplus?view=graph-rest-beta) method to the [EmployeeGraphQLResponse](https://docs.microsoft.com/en-us/graph/api/resources/EmployeeGraphQLResponse?view=graph-rest-beta) resource.|
+|Addition|beta|Added the [query](https://docs.microsoft.com/en-us/graph/api/Result-query?view=graph-rest-beta) method to the [Result](https://docs.microsoft.com/en-us/graph/api/resources/Result?view=graph-rest-beta) resource.|
+|Addition|beta|Added the [query](https://docs.microsoft.com/en-us/graph/api/Result-query?view=graph-rest-beta) method to the [Result](https://docs.microsoft.com/en-us/graph/api/resources/Result?view=graph-rest-beta) resource.|
+|Addition|beta|Added the [batchQuery](https://docs.microsoft.com/en-us/graph/api/DecoratedProfileSearchResult-batchQuery?view=graph-rest-beta) method to the [DecoratedProfileSearchResult](https://docs.microsoft.com/en-us/graph/api/resources/DecoratedProfileSearchResult?view=graph-rest-beta) resource.|
+|Addition|beta|Added the [viewees](https://docs.microsoft.com/en-us/graph/api/DecoratedProfile-viewees?view=graph-rest-beta) method to the [DecoratedProfile](https://docs.microsoft.com/en-us/graph/api/resources/DecoratedProfile?view=graph-rest-beta) resource.|
+|Addition|beta|Added the [batchGet](https://docs.microsoft.com/en-us/graph/api/DecoratedProfile-batchGet?view=graph-rest-beta) method to the [DecoratedProfile](https://docs.microsoft.com/en-us/graph/api/resources/DecoratedProfile?view=graph-rest-beta) resource.|
+|Addition|beta|Added the [viewer](https://docs.microsoft.com/en-us/graph/api/DecoratedProfileConnection-viewer?view=graph-rest-beta) method to the [DecoratedProfileConnection](https://docs.microsoft.com/en-us/graph/api/resources/DecoratedProfileConnection?view=graph-rest-beta) resource.|
